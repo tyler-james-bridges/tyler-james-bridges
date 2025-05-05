@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
  ![lil pudgy](https://github.com/user-attachments/assets/2d123b55-ec41-45ec-9acd-285aa7a1a625)
+# tyler-james-bridges.github.io
