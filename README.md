@@ -27,4 +27,12 @@ Areas I'm focused on include:
 
 I bring 10 years across QA and software engineering, with deep expertise in TypeScript, React, Next.js, Playwright, and smart contract integration. My background means I don't just build features. I build features that work, with the test coverage to prove it.
 
-Former drum corps member (Pulse 2014). I still think about software in terms of reps, cleaning, and hitting the set on time.
+### Marching Arts
+
+I spent years on the field and in the lot before I ever touched a codebase.
+
+**Performing:** SCV Cadets (2009), Santa Clara Vanguard (2010), Vanguard Winter Percussion (2011), Pulse Percussion (2012-2014, Snareline), Blue Stars (2013)
+
+**Teaching:** Blue Stars Snareline Tech (2014-2018), POW Percussion Battery & Ensemble Coordinator (2015-2022), Highland High School Percussion Volunteer (2023-Present), Flux Indoor Percussion Battery Consultant (2024-Present)
+
+I still think about software in terms of reps, cleaning, and hitting the set on time.
