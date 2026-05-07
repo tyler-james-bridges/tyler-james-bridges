@@ -33,6 +33,6 @@ I spent years on the field and in the lot before I ever touched a codebase.
 
 **Performing:** SCV Cadets (2009), Santa Clara Vanguard (2010), Vanguard Winter Percussion (2011), Pulse Percussion (2012-2014, Snareline), Blue Stars (2013)
 
-**Teaching & Design:** Blue Stars Snareline Tech (2014-2018), POW Percussion (2015-2022), and ongoing work with high school and indoor programs as a battery consultant and volunteer.
+**Teaching & Design:** Blue Stars Snareline Tech (2014-2018), POW Percussion (2015-2022), Flux Indoor Percussion Battery Consultant (2024-Present), and ongoing work with high school programs as a volunteer.
 
-I still think about software in terms of reps, cleaning, and hitting the set on time.
+I still think about software in terms of reps, cleaning, and locking in with the rest of the line.
