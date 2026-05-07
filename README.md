@@ -18,4 +18,13 @@ Areas I'm focused on include:
 - Mobile-first development philosophy
 - Quality as a first-class engineering discipline, not an afterthought
 
+### Ships
+
+- [ack-onchain.dev](https://ack-onchain.dev) - Peer-driven reputation protocol for AI agents
+- [qai-cli](https://www.npmjs.com/package/qai-cli) - AI-powered code review and test generation from your terminal
+- [x402 tooling](https://github.com/tyler-james-bridges?tab=repositories&q=x402) - Linting, indexing, compliance testing, and payment gateways for the x402 ecosystem
+- [tempo](https://github.com/tyler-james-bridges/tempo) - Upload sheet music, get tempo maps
+
 I bring 10 years across QA and software engineering, with deep expertise in TypeScript, React, Next.js, Playwright, and smart contract integration. My background means I don't just build features. I build features that work, with the test coverage to prove it.
+
+Former drum corps member (Pulse 2014). I still think about software in terms of reps, cleaning, and hitting the set on time.
