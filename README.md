@@ -1,4 +1,4 @@
-# Howdy! I'm Tyler
+# High! I'm Tyler
 
 I'm a Software Engineer III on the Developer Experience team, with a decade of quality engineering experience that fundamentally shapes how I build software.
 
