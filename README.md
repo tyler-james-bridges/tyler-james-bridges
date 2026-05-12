@@ -58,7 +58,7 @@ TypeScript · React · Next.js · Playwright · Solidity · Rust
 
 I spent years on the field and in the lot before I ever touched a codebase.
 
-**On the line:** SCV Cadets '09 (snare) · Santa Clara Vanguard '10 (snare) · SCV Cadets '11 (snare) · Vanguard Winter Percussion '11 (snare) · Pulse Percussion '12-'14 (snare) · Blue Stars '13 (snare)
+**On the line (snare):** SCV Cadets '09 · Santa Clara Vanguard '10 · SCV Cadets '11 · Vanguard Winter Percussion '11 · Pulse Percussion '12-'14 · Blue Stars '13
 
 **Educator:** Blue Stars Snareline Tech '14-'18 · POW Percussion '15-'22 · Flux Indoor Battery Consultant '24-present · ongoing work with high school programs as a volunteer
 
