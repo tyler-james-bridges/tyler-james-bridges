@@ -60,6 +60,6 @@ I spent years on the field and in the lot before I ever touched a codebase.
 
 **On the line:** SCV Cadets '09 · Santa Clara Vanguard '10 · Vanguard Winter Percussion '11 · Pulse Percussion '12-'14 (snare) · Blue Stars '13
 
-**In front of the line:** Blue Stars Snareline Tech '14-'18 · POW Percussion '15-'22 · Flux Indoor Battery Consultant '24-present · ongoing work with high school programs as a volunteer
+**Educator:** Blue Stars Snareline Tech '14-'18 · POW Percussion '15-'22 · Flux Indoor Battery Consultant '24-present · ongoing work with high school programs as a volunteer
 
 I still think about software in terms of reps, cleaning, and locking in with the rest of the line.
