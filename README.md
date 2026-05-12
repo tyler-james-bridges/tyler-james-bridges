@@ -28,9 +28,9 @@
 
 ---
 
-<details>
-<summary><strong>About</strong></summary>
-<br>
+---
+
+### About
 
 Software Engineer III on the Developer Experience team, with a decade of quality engineering experience that fundamentally shapes how I build software.
 
@@ -54,11 +54,7 @@ TypeScript · React · Next.js · Playwright · Solidity · Rust
 
 10 years across QA and software engineering. I don't just build features. I build features that work, with the test coverage to prove it.
 
-</details>
-
-<details>
-<summary><strong>Before the codebase</strong></summary>
-<br>
+### Before the codebase
 
 I spent years on the field and in the lot before I ever touched a codebase.
 
@@ -67,5 +63,3 @@ I spent years on the field and in the lot before I ever touched a codebase.
 **Behind the line:** Blue Stars Snareline Tech '14-'18 · POW Percussion '15-'22 · Flux Indoor Battery Consultant '24-present · ongoing work with high school programs as a volunteer
 
 I still think about software in terms of reps, cleaning, and locking in with the rest of the line.
-
-</details>
