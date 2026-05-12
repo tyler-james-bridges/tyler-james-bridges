@@ -1,38 +1,71 @@
-# High! I'm Tyler
+# Tyler James-Bridges
 
-I'm a Software Engineer III on the Developer Experience team, with a decade of quality engineering experience that fundamentally shapes how I build software.
+> **[ACK Protocol](https://ack-onchain.dev)**
+> Peer-driven reputation protocol for AI agents. ERC-8004 on Abstract, Ethereum, and Base.
+> Production smart contracts, agentic systems, SDK, x402-gated endpoints.
+
+---
+
+> **[x402](https://github.com/tyler-james-bridges/x402)**
+> A payments protocol for the internet, built on HTTP.
+> Full ecosystem: [lint](https://github.com/tyler-james-bridges/x402-lint) · [compliance testing](https://github.com/tyler-james-bridges/x402-qai) · [indexer](https://github.com/tyler-james-bridges/x402-indexer) · [payment gateway](https://github.com/tyler-james-bridges/x402-devex-gateway) · [canary](https://github.com/tyler-james-bridges/x402-canary)
+
+---
+
+> **[etch](https://github.com/tyler-james-bridges/etch)**
+> Permanent onchain records on Abstract + Base.
+> Soulbound ERC-721, typed tokens, Rust MCP server, Next.js app.
+
+---
+
+> **[qai-cli](https://www.npmjs.com/package/qai-cli)**
+> AI-powered code review and test generation from your terminal.
+
+---
+
+> **[tempo](https://github.com/tyler-james-bridges/tempo)**
+> Upload sheet music. Get tempo maps.
+
+---
+
+<details>
+<summary><strong>About</strong></summary>
+<br>
+
+Software Engineer III on the Developer Experience team, with a decade of quality engineering experience that fundamentally shapes how I build software.
 
 My path into engineering started in manual QA, moved through test automation, and landed in software engineering. That progression wasn't a departure from quality, it was a deepening of it. Nine years of breaking software before writing it gave me an instinct for what actually ships reliably versus what just passes a demo.
 
 My current work focuses on developer tooling, test infrastructure, and making the teams around me more effective. I believe the best DevEx work is invisible: engineers ship faster and don't think about why.
 
-Outside of my day job, I build onchain products on Abstract and Ethereum, most notably [ACK (Agent Consensus Kudos)](https://ack-onchain.dev), an ERC-8004 reputation protocol for autonomous AI agents. I've shipped production smart contracts, agentic systems, and CLI tools that are used in the wild. I think a lot about the intersection of AI autonomy, onchain identity, and developer tooling.
+Outside of my day job, I build onchain products on Abstract and Ethereum. I've shipped production smart contracts, agentic systems, and CLI tools that are used in the wild. I think a lot about the intersection of AI autonomy, onchain identity, and developer tooling.
 
-Areas I'm focused on include:
-
+**Areas of focus:**
 - Developer experience and engineering productivity
 - Test automation architecture and CI/CD reliability
 - Agentic engineering workflows and AI-assisted development
 - Onchain protocol design (ERC-8004, Abstract L2)
+- Payments infrastructure for the agent economy
 - CLI tooling and developer-facing APIs
 - Mobile-first development philosophy
 - Quality as a first-class engineering discipline, not an afterthought
 
-### Ships
+TypeScript · React · Next.js · Playwright · Solidity · Rust
 
-- [ack-onchain.dev](https://ack-onchain.dev) - Peer-driven reputation protocol for AI agents
-- [qai-cli](https://www.npmjs.com/package/qai-cli) - AI-powered code review and test generation from your terminal
-- [x402 tooling](https://github.com/tyler-james-bridges?tab=repositories&q=x402) - Linting, indexing, compliance testing, and payment gateways for the x402 ecosystem
-- [tempo](https://github.com/tyler-james-bridges/tempo) - Upload sheet music, get tempo maps
+10 years across QA and software engineering. I don't just build features. I build features that work, with the test coverage to prove it.
 
-I bring 10 years across QA and software engineering, with deep expertise in TypeScript, React, Next.js, Playwright, and smart contract integration. My background means I don't just build features. I build features that work, with the test coverage to prove it.
+</details>
 
-### Marching Arts
+<details>
+<summary><strong>Before the codebase</strong></summary>
+<br>
 
 I spent years on the field and in the lot before I ever touched a codebase.
 
-**Performing:** SCV Cadets (2009), Santa Clara Vanguard (2010), Vanguard Winter Percussion (2011), Pulse Percussion (2012-2014, Snareline), Blue Stars (2013)
+**On the line:** SCV Cadets '09 · Santa Clara Vanguard '10 · Vanguard Winter Percussion '11 · Pulse Percussion '12-'14 (snare) · Blue Stars '13
 
-**Teaching & Design:** Blue Stars Snareline Tech (2014-2018), POW Percussion (2015-2022), Flux Indoor Percussion Battery Consultant (2024-Present), and ongoing work with high school programs as a volunteer.
+**Behind the line:** Blue Stars Snareline Tech '14-'18 · POW Percussion '15-'22 · Flux Indoor Battery Consultant '24-present · ongoing work with high school programs as a volunteer
 
 I still think about software in terms of reps, cleaning, and locking in with the rest of the line.
+
+</details>
