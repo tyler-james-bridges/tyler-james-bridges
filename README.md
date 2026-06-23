@@ -1,35 +1,5 @@
 # Tyler James-Bridges
 
-> **[ACK Protocol](https://ack-onchain.dev)**
-> Peer-driven reputation protocol for AI agents. ERC-8004 on Abstract, Ethereum, and Base.
-> Production smart contracts, agentic systems, SDK, x402-gated endpoints.
-
----
-
-> **[x402](https://github.com/tyler-james-bridges/x402)**
-> A payments protocol for the internet, built on HTTP.
-> Full ecosystem: [lint](https://github.com/tyler-james-bridges/x402-lint) · [compliance testing](https://github.com/tyler-james-bridges/x402-qai) · [indexer](https://github.com/tyler-james-bridges/x402-indexer) · [payment gateway](https://github.com/tyler-james-bridges/x402-devex-gateway) · [canary](https://github.com/tyler-james-bridges/x402-canary)
-
----
-
-> **[etch](https://github.com/tyler-james-bridges/etch)**
-> Permanent onchain records on Abstract + Base.
-> Soulbound ERC-721, typed tokens, Rust MCP server, Next.js app.
-
----
-
-> **[qai-cli](https://www.npmjs.com/package/qai-cli)**
-> AI-powered code review and test generation from your terminal.
-
----
-
-> **[tempo](https://github.com/tyler-james-bridges/tempo)**
-> Upload sheet music. Get tempo maps.
-
----
-
----
-
 ### About
 
 Software Engineer III on the Developer Experience team, with a decade of quality engineering experience that fundamentally shapes how I build software.
@@ -63,3 +33,25 @@ I spent years on the field and in the lot before I ever touched a codebase.
 **Educator:** Blue Stars Snareline Tech '14-'18 · POW Percussion '15-'22 · Flux Indoor Battery Consultant '24-present · ongoing work with high school programs as a volunteer
 
 I still think about software in terms of reps, cleaning, and locking in with the rest of the line.
+
+---
+
+### Projects
+
+> **[ACK Protocol](https://ack-onchain.dev)**
+> Peer-driven reputation protocol for AI agents. ERC-8004 on Abstract, Ethereum, and Base.
+> Production smart contracts, agentic systems, SDK, x402-gated endpoints.
+
+> **[x402](https://github.com/tyler-james-bridges/x402)**
+> A payments protocol for the internet, built on HTTP.
+> Full ecosystem: [lint](https://github.com/tyler-james-bridges/x402-lint) · [compliance testing](https://github.com/tyler-james-bridges/x402-qai) · [indexer](https://github.com/tyler-james-bridges/x402-indexer) · [payment gateway](https://github.com/tyler-james-bridges/x402-devex-gateway) · [canary](https://github.com/tyler-james-bridges/x402-canary)
+
+> **[etch](https://github.com/tyler-james-bridges/etch)**
+> Permanent onchain records on Abstract + Base.
+> Soulbound ERC-721, typed tokens, Rust MCP server, Next.js app.
+
+> **[qai-cli](https://www.npmjs.com/package/qai-cli)**
+> AI-powered code review and test generation from your terminal.
+
+> **[tempo](https://github.com/tyler-james-bridges/tempo)**
+> Upload sheet music. Get tempo maps.
