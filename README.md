@@ -30,7 +30,7 @@ Outside the day job I build onchain — production smart contracts, agent identi
 
 ## Projects
 
-| | |
+| Project | What it is |
 |---|---|
 | **[ACK Protocol](https://ack-onchain.dev)** | Peer-driven reputation for AI agents. ERC-8004 on Abstract, Ethereum, and Base — contracts, SDK, x402-gated endpoints. |
 | **[x402](https://github.com/tyler-james-bridges/x402)** | Payments protocol for the internet, built on HTTP. Ecosystem: [lint](https://github.com/tyler-james-bridges/x402-lint) · [compliance](https://github.com/tyler-james-bridges/x402-qai) · [indexer](https://github.com/tyler-james-bridges/x402-indexer) · [gateway](https://github.com/tyler-james-bridges/x402-devex-gateway) · [canary](https://github.com/tyler-james-bridges/x402-canary) |
