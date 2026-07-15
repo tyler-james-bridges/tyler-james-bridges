@@ -1,7 +1,10 @@
 <p align="center">
   <a href="https://ack-onchain.dev">
-    <img src="assets/banner-dark.svg#gh-dark-mode-only" alt="Tyler James-Bridges" width="800">
-    <img src="assets/banner-light.svg#gh-light-mode-only" alt="Tyler James-Bridges" width="800">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+      <img src="assets/banner-light.svg" alt="Tyler James-Bridges" width="800">
+    </picture>
   </a>
 </p>
 
