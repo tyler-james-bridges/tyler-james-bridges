@@ -1,57 +1,40 @@
-# Tyler James-Bridges
+<p align="center">
+  <a href="https://ack-onchain.dev">
+    <img src="assets/banner-dark.svg#gh-dark-mode-only" alt="Tyler James-Bridges" width="800">
+    <img src="assets/banner-light.svg#gh-light-mode-only" alt="Tyler James-Bridges" width="800">
+  </a>
+</p>
 
-### About
+<p align="center">
+  <a href="https://x.com/tmoney_145">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="https://ack-onchain.dev">
+    <img src="https://img.shields.io/badge/ACK_Protocol-3fb950?style=for-the-badge&logo=ethereum&logoColor=white" alt="ACK Protocol">
+  </a>
+  <a href="https://www.npmjs.com/package/qai-cli">
+    <img src="https://img.shields.io/badge/npm-qai--cli-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="qai-cli on npm">
+  </a>
+</p>
 
-Software Engineer III on the Developer Experience team, with a decade of quality engineering experience that fundamentally shapes how I build software.
+## About
 
-My path into engineering started in manual QA, moved through test automation, and landed in software engineering. That progression wasn't a departure from quality, it was a deepening of it. Nine years of breaking software before writing it gave me an instinct for what actually ships reliably versus what just passes a demo.
+Software Engineer III on a Developer Experience team. A decade in QA before that — nine years of breaking software gave me an instinct for what actually ships reliably versus what just passes a demo. The best DevEx work is invisible: engineers ship faster and don't think about why.
 
-My current work focuses on developer tooling, test infrastructure, and making the teams around me more effective. I believe the best DevEx work is invisible: engineers ship faster and don't think about why.
+Outside the day job I build onchain — production smart contracts, agent identity (ERC-8004), and payments infrastructure for the agent economy on Abstract, Ethereum, and Base.
 
-Outside of my day job, I build onchain products on Abstract and Ethereum. I've shipped production smart contracts, agentic systems, and CLI tools that are used in the wild. I think a lot about the intersection of AI autonomy, onchain identity, and developer tooling.
+**TypeScript · React · Next.js · Playwright · Solidity · Rust**
 
-**Areas of focus:**
-- Developer experience and engineering productivity
-- Test automation architecture and CI/CD reliability
-- Agentic engineering workflows and AI-assisted development
-- Onchain protocol design (ERC-8004, Abstract L2)
-- Payments infrastructure for the agent economy
-- CLI tooling and developer-facing APIs
-- Mobile-first development philosophy
-- Quality as a first-class engineering discipline, not an afterthought
+## Projects
 
-TypeScript · React · Next.js · Playwright · Solidity · Rust
+| | |
+|---|---|
+| **[ACK Protocol](https://ack-onchain.dev)** | Peer-driven reputation for AI agents. ERC-8004 on Abstract, Ethereum, and Base — contracts, SDK, x402-gated endpoints. |
+| **[x402](https://github.com/tyler-james-bridges/x402)** | Payments protocol for the internet, built on HTTP. Ecosystem: [lint](https://github.com/tyler-james-bridges/x402-lint) · [compliance](https://github.com/tyler-james-bridges/x402-qai) · [indexer](https://github.com/tyler-james-bridges/x402-indexer) · [gateway](https://github.com/tyler-james-bridges/x402-devex-gateway) · [canary](https://github.com/tyler-james-bridges/x402-canary) |
+| **[etch](https://github.com/tyler-james-bridges/etch)** | Permanent onchain records. Soulbound ERC-721, typed tokens, Rust MCP server. |
+| **[qai-cli](https://www.npmjs.com/package/qai-cli)** | AI-powered code review and test generation from your terminal. |
+| **[tempo](https://github.com/tyler-james-bridges/tempo)** | Upload sheet music. Get tempo maps. |
 
-10 years across QA and software engineering. I don't just build features. I build features that work, with the test coverage to prove it.
+## Before the codebase
 
-### Before the codebase
-
-I spent years on the field and in the lot before I ever touched a codebase.
-
-**On the line (snare):** SCV Cadets '09 · Santa Clara Vanguard '10 · SCV Cadets '11 · Vanguard Winter Percussion '11 · Pulse Percussion '12-'14 · Blue Stars '13
-
-**Educator:** Blue Stars Snareline Tech '14-'18 · POW Percussion '15-'22 · Flux Indoor Battery Consultant '24-present · ongoing work with high school programs as a volunteer
-
-I still think about software in terms of reps, cleaning, and locking in with the rest of the line.
-
----
-
-### Projects
-
-> **[ACK Protocol](https://ack-onchain.dev)**
-> Peer-driven reputation protocol for AI agents. ERC-8004 on Abstract, Ethereum, and Base.
-> Production smart contracts, agentic systems, SDK, x402-gated endpoints.
-
-> **[x402](https://github.com/tyler-james-bridges/x402)**
-> A payments protocol for the internet, built on HTTP.
-> Full ecosystem: [lint](https://github.com/tyler-james-bridges/x402-lint) · [compliance testing](https://github.com/tyler-james-bridges/x402-qai) · [indexer](https://github.com/tyler-james-bridges/x402-indexer) · [payment gateway](https://github.com/tyler-james-bridges/x402-devex-gateway) · [canary](https://github.com/tyler-james-bridges/x402-canary)
-
-> **[etch](https://github.com/tyler-james-bridges/etch)**
-> Permanent onchain records on Abstract + Base.
-> Soulbound ERC-721, typed tokens, Rust MCP server, Next.js app.
-
-> **[qai-cli](https://www.npmjs.com/package/qai-cli)**
-> AI-powered code review and test generation from your terminal.
-
-> **[tempo](https://github.com/tyler-james-bridges/tempo)**
-> Upload sheet music. Get tempo maps.
+A decade on snarelines — Santa Clara Vanguard, Pulse Percussion, Blue Stars — and still teaching. I learned reps, cleaning, and locking in with the line long before I learned to ship software. Same discipline, different instrument.

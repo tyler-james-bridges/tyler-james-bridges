@@ -1,0 +1,9 @@
+<svg width="800" height="180" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tyler James-Bridges">
+  <style>
+    .name { font: 600 40px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #e6edf3; }
+    .prompt { fill: #3fb950; }
+    .tag { font: 400 16px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #8b949e; }
+  </style>
+  <text x="400" y="82" text-anchor="middle" class="name"><tspan class="prompt">~/</tspan>tyler-james-bridges<tspan class="prompt"> ▌<animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/></tspan></text>
+  <text x="400" y="126" text-anchor="middle" class="tag">developer experience · onchain protocols · quality engineering</text>
+</svg>
