@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://ack-onchain.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-      <img src="assets/banner-light.svg" alt="Tyler James-Bridges" width="800">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tyler-james-bridges/tyler-james-bridges/main/assets/banner-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tyler-james-bridges/tyler-james-bridges/main/assets/banner-light.svg">
+      <img src="https://raw.githubusercontent.com/tyler-james-bridges/tyler-james-bridges/main/assets/banner-light.svg" alt="Tyler James-Bridges" width="800">
     </picture>
   </a>
 </p>
